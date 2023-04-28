@@ -35,7 +35,9 @@ I am currently working on Expowerx Learning Technologies as a software engineer 
 
 # Hoobies:
 • Painting/Drawing.
+
 • Fitness/Health.
+
 • Cooking.
 
 # 📊 GitHub Stats:
