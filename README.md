@@ -34,7 +34,9 @@ I am currently working on Expowerx Learning Technologies as a software engineer 
 3. Databases and Algorithm using Java.
 
 # Hoobies:
-
+• Painting/Drawing.
+• Fitness/Health.
+• Cooking.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohanaganapathy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
