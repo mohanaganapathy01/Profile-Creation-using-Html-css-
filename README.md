@@ -1,6 +1,6 @@
 # Profile-Creation-using-Html-css-
 # 💫 About Me:
-I am currently working on Expowerx Learning Technologies as a software engineer intern I am looking for a full-time opportunity in a good organization where I can learn a lot of new technologies and contribute my self with a variety of technical skills.
+I am currently working on Epowerx Learning Technologies as a Engineering Intern I am looking for a full-time opportunity in a good organization where I can learn a lot of new technologies and contribute my self with a variety of technical skills.
 
 
 ## 🌐 Socials:
